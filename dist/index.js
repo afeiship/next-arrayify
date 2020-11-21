@@ -3,7 +3,7 @@
  * description: Simpliy to array.
  * homepage: https://github.com/afeiship/next-arrayify
  * version: 1.0.0
- * date: 2020-11-21 10:16:30
+ * date: 2020-11-21 10:17:10
  * license: MIT
  */
 
